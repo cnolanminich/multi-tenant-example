@@ -1,0 +1,10 @@
+locations:
+  - location_name: subsidiary_one
+    code_source:
+      package_name: subsidiary_one
+  - location_name: subsidiary_two
+    code_source:
+      package_name: subsidiary_two
+  - location_name: subsidiary_three
+    code_source:
+      package_name: subsidiary_three
