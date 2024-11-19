@@ -13,7 +13,7 @@ pip install -e ".[dev]"
 Then, start the Dagster UI web server:
 
 ```bash
-dagster dev
+dagster dev -w workspace.yaml
 ```
 
 Open http://localhost:3000 with your browser to see the project.
